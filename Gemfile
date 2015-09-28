@@ -17,6 +17,7 @@ gem 'figaro'
 gem 'mini_magick'
 gem 'devise'
 gem 'awesome_print', '~> 1.6.1'
+gem 'searchkick'
 
 
 group :development, :test do
